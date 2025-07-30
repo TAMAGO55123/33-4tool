@@ -16,5 +16,7 @@ https://dic.nicovideo.jp/a/%E3%81%AA%E3%82%93%E3%81%A7%E3%82%84%21%E9%98%AA%E7%A
 
 ## 使用物
 line-delimit.js | 自作
+
 M PLUS 1p | Google Fonts
+
 M PLUS Rounded 1c | Google Fonts
